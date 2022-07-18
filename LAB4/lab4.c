@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-	char  Employees_ID[]     = ""  ;
+	char  Employees_ID[]     = ""   ;
 	int   Working_hrs        = 0    ;
 	int   salary_amount      = 0    ;
 
